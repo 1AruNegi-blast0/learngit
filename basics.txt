@@ -10,3 +10,5 @@ on your pc then it is a Folder and when it is on github it is a repo
 5:here i came back to the master branch 
 
 6:raprobotpro has forked this project
+
+7:i am learning git raprobotpro today is 4feb 2021
