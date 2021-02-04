@@ -6,3 +6,6 @@ on your pc then it is a Folder and when it is on github it is a repo
 3:Commit: i will write something here later this is just for an example
 
 4:branches: are like a new copy of your main file with which you can experiment anything and it will not affect your main branch at all and the great thing is that you can create branches inside branches.  so just for demo here i will be editing this branch hello this is the first branch of the main branch.
+
+
+5:pull requests and merge: now this is the second branch i am using. i have already made a pull request from the first branch and already merged it to the main branch 
