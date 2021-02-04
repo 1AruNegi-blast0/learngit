@@ -1,1 +1,4 @@
-1:REPOSITORY/REPO: It is the file or folder you create every new project is a repo. you can say that when a project is on your pc then it is a Folder and when it is on github it is a repo
+1:REPOSITORY/REPO: It is the file or folder you create every new project is a repo. you can say that when a project is 
+on your pc then it is a Folder and when it is on github it is a repo
+
+2:Commit:is making changes to the previous version and changing the main version. 
